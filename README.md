@@ -10,3 +10,8 @@ This is a Text Effect web project that brings electrifying, animated, and glowin
 HTML – Structure <br>
 CSS (Keyframes & Shadows) – Styling & Animations <br>
 JavaScript (Optional) – Enhanced Interactions <br>
+
+<br>
+<h3>
+  live demo: 
+https://mr-adarsh-developer.github.io/Text-Effet/ </h3>

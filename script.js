@@ -127,7 +127,7 @@ function Text(options) {
   buffer.fillRect(0, 0, pool.width, pool.height);
 
   this.size = options.size || 100;
-  this.copy = (options.copy || `Hello!`) + ' ';
+  this.copy = (options.copy || `꧁༒☬महादेव☬༒꧂`) + ' ';
   this.color = options.color || '#cd96fe';
   this.delay = options.delay || 0.9;
   this.basedelay = this.delay;
